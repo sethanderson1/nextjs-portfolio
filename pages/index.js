@@ -11,10 +11,10 @@ export default function Home() {
 
       <main >
         <header className="text-blue-100">
-          <h1 className="text-center">
+          <h1 className="text-center text-8xl my-20">
             Seth Anderson
             </h1>
-          <h2 className="text-center">
+          <h2 className="text-center text-4xl my-11">
             Full Stack Developer
             </h2>
         </header>
