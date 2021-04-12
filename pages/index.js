@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      <Head>
+      <Head> 
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -12,7 +12,7 @@ export default function Home() {
       <main >
         <header className="text-blue-100">
           <h1 className="text-center text-8xl my-20">
-            Seth Anderson 
+            Seth Anderson
             </h1>     
           <h2 className="text-center text-4xl my-11">
             Full Stack Developer
