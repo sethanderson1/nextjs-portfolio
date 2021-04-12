@@ -11,11 +11,11 @@ export default function Home() {
 
       <main >
         <header className="text-blue-100">
-            <h1 className="text-center">
-              Seth Anderson
+          <h1 className="text-center">
+            Seth Anderson
             </h1>
-            <h2>
-              Full Stack Developer
+          <h2 className="text-center">
+            Full Stack Developer
             </h2>
         </header>
         <section className="relative py-3 sm:max-w-xl sm:mx-auto">
