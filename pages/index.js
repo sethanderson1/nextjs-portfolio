@@ -9,13 +9,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex justify-center">
-          <section className="w-5/6 h-96 bg-blue-700 rounded-3xl text-yellow-300 text-center ">
-            <div className="border-blue-300 border-solid">
-              <h2 className='my-12 text-3xl '>About</h2>
+      <main >
+        <section className="relative py-3 sm:max-w-xl sm:mx-auto">
+          <div className="relative px-4 py-10 shadow-lg sm:rounded-3xl sm:p-20 h-96 bg-blue-700 text-yellow-300 text-center ">
+            <div>
+              <h2 className='my-12 text-3xl'>About</h2>
               <p className='text-yellow-50'>I'm Seth. That's me</p>
             </div>
-          </section>
+          </div>
+        </section>
       </main>
 
     </div>
