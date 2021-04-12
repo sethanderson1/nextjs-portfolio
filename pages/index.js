@@ -12,12 +12,12 @@ export default function Home() {
       <main >
         <header className="text-blue-100">
           <h1 className="text-center text-8xl my-20">
-            Seth Anderson
-            </h1>
+            Seth Anderson 
+            </h1>     
           <h2 className="text-center text-4xl my-11">
             Full Stack Developer
             </h2> 
-        </header>
+        </header> 
         <section className="relative py-3 sm:max-w-xl sm:mx-auto">
           <div className="relative px-4 py-10 shadow-lg sm:rounded-3xl sm:p-20 h-96 bg-blue-700 text-yellow-300 text-center ">
             <div>
