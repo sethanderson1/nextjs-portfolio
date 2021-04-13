@@ -12,7 +12,7 @@ body {
 
 body {
   @apply bg-gray-900;
-  @apply p-12;
+  /* @apply p-12; */
 }
 
 a {
